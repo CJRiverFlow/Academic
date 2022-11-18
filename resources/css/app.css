@@ -1,0 +1,13 @@
+body{   
+    background:#c5ced0;
+}
+
+.container {
+    font-size: 18px;
+    margin-top: 25px;
+}
+
+#email-field {
+    margin:0;
+    padding:0;
+}
