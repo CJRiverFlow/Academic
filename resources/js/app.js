@@ -68,7 +68,7 @@ if (table_clients_wrapper) {
             }
         ],
         search: {
-            enabled: true
+            enabled: false
         },
         style: { 
             table: { 
